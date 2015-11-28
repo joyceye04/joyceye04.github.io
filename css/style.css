@@ -331,11 +331,11 @@ section.section {
  --- Parallax ---
 ============================= */
 
-#parallax1{	
-	background-image: url(../img/parallax/img1.jpg);
+#parallax{	
+	background-image: url(../img/img2.png);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img2.png);
+	background-image: url(../img/img2.png);
 }
 #testimonials{	
 	background-image: url(../img/parallax/img3.jpg);
